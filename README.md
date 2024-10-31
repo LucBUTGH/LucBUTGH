@@ -23,13 +23,11 @@ Here are the languages and technologies I'm proficient in:
 - Kotlin
 - SQK
 
-And here are the languages and technologies I'm proficient in:
+And here are the frameworks I'm proficient in:
 
 - Vue.js
 - Laravel
 - Tailwind
-- SpringBoot
-
 
 I'm always open to learning new technologies and enhancing my skills in the ones I already know.
 
