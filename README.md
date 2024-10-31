@@ -18,12 +18,18 @@ Here are the languages and technologies I'm proficient in:
 - CSS
 - JavaScript
 - PHP
-- Vue.js
 - C#
 - Java
 - Kotlin
-- MySQL
-- SQL Oracle
+- SQK
+
+And here are the languages and technologies I'm proficient in:
+
+- Vue.js
+- Laravel
+- Tailwind
+- SpringBoot
+
 
 I'm always open to learning new technologies and enhancing my skills in the ones I already know.
 
