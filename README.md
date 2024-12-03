@@ -1,34 +1,40 @@
-### Hi there 👋
+# Welcome to my GitHub profile! 👋
 
-I'm a second-year computer science student at IUT Grand Ouest Normandie in Caen, passionate about web development and frontend technologies. Currently, I'm honing my skills in Vue.js and I'm always excited about learning new things in the programming domain.
+I'm **Luc Leveque**, a third-year IT student. Passionate about IT and always eager to learn, I enjoy taking on new challenges and developing my skills in this constantly evolving field!
 
-- 🌱 I’m currently learning VueJS & Typescript
+🌟 Always curious and never afraid of a challenge, I embrace new technologies and love experimenting with creative solutions!
 
-### Contact Me
+📚 As a passionate learner, I thrive on discovering new perspectives in coding. I'm always ready to take an interest in new technologies that spark my curiosity!
 
-💼 [LinkedIn](https://www.linkedin.com/in/luc-leveque-17675b252/)
+🚀 Feel free to collaborate or share your project ideas!
 
-Feel free to get in touch with me on Twitter or LinkedIn if you want to discuss projects, collaboration opportunities, or just exchange ideas!
+Translated with DeepL.com (free version)
 
-### Languages and Technologies
+## 🔧 Technical Skills
 
-Here are the languages and technologies I'm proficient in:
+### 💻 Programming Languages:
+- **Back-end and Front-end:**
+  - 🖥️ C, Java, C#, PHP, Python, Kotlin
+  - 🌐 HTML, CSS, JavaScript
+- **Databases:**
+  - 🗄️ SQL (Oracle, MySQL, SQLite, PostgreSQL)
 
-- HTML
-- CSS
-- JavaScript
-- PHP
-- C#
-- Java
-- Kotlin
-- SQK
+### 🛠️ Frameworks & Tools:
+- **Front-end:** 🎨 Tailwind CSS, Vue.js
+- **Back-end:** ⚙️ Laravel, Node.js
+- **Version Control:** 🔀 Git, GitHub, BitBucket
 
-And here are the frameworks I'm proficient in:
+### 🖥️ Environments:
+- 🐧 Linux (basic commands, scripts)
+- 🪟 Windows (administration, configuration)
 
-- Vue.js
-- Laravel
-- Tailwind
+## 🔎 Objectives and Interests
 
-I'm always open to learning new technologies and enhancing my skills in the ones I already know.
+I am motivated to work on innovative and collaborative projects, whether in web development, data analysis, or optimizing complex applications.
 
-Feel free to explore my projects to learn more about my accomplishments, and don't hesitate to share your feedback and suggestions!
+## 🔗 Useful Links
+
+- **LinkedIn:** [Luc Lévêque](https://www.linkedin.com/in/luc-leveque-17675b252/)
+- **GitHub Projects:** You can explore my work and achievements by browsing my repositories below.
+
+---
