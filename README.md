@@ -22,7 +22,7 @@ Translated with DeepL.com (free version)
 ### 🛠️ Frameworks & Tools:
 - **Front-end:** 🎨 Tailwind CSS, Vue.js
 - **Back-end:** ⚙️ Laravel, Node.js
-- **Version Control:** 🔀 Git, GitHub, BitBucket
+- **Versionning:** 🔀 Git, GitHub, BitBucket
 
 ### 🖥️ Environments:
 - 🐧 Linux (basic commands, scripts)
