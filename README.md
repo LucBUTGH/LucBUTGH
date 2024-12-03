@@ -34,7 +34,7 @@ I am motivated to work on innovative and collaborative projects, whether in web 
 
 ## 🔗 Useful Links
 
-- **LinkedIn:** [Luc Lévêque](https://www.linkedin.com/in/luc-leveque-17675b252/)
+- **LinkedIn:** [Luc Leveque](https://www.linkedin.com/in/luc-leveque-17675b252/)
 - **GitHub Projects:** You can explore my work and achievements by browsing my repositories below.
 
 ---
