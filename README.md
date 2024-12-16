@@ -18,6 +18,7 @@ Translated with DeepL.com (free version)
   - 🌐 HTML, CSS, JavaScript
 - **Databases:**
   - 🗄️ SQL (Oracle, MySQL, SQLite, PostgreSQL)
+  - 📦 NoSQL (Redis, MongoDB)
 
 ### 🛠️ Frameworks & Tools:
 - **Front-end:** 🎨 Tailwind CSS, Vue.js
