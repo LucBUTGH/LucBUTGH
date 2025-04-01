@@ -8,8 +8,6 @@ I'm **Luc Leveque**, a third-year IT student. Passionate about IT and always eag
 
 🚀 Feel free to collaborate or share your project ideas!
 
-Translated with DeepL.com (free version)
-
 ## 🔧 Technical Skills
 
 ### 💻 Programming Languages:
