@@ -21,7 +21,7 @@ I'm **Luc Leveque**, a third-year IT student. Passionate about IT and always eag
 ### 🛠️ Frameworks & Tools:
 - **Front-end:** 🎨 Tailwind CSS, Vue.js
 - **Back-end:** ⚙️ Laravel, Node.js
-- **Versionning:** 🔀 Git, GitHub, BitBucket
+- **Versionning:** 🔀 Git, GitHub, Gitlab, BitBucket
 
 ### 🖥️ Environments:
 - 🐧 Linux (basic commands, scripts)
@@ -35,5 +35,6 @@ I am motivated to work on innovative and collaborative projects, whether in web 
 
 - **LinkedIn:** [Luc Leveque](https://www.linkedin.com/in/luc-leveque-17675b252/)
 - **GitHub Projects:** You can explore my work and achievements by browsing my repositories below.
+- **Portfilio** [Right here](https://lucleveque.fr)
 
 ---
